@@ -1,5 +1,5 @@
 # Tictactoe
-Hey, this is a git repository i am goint to use while building my tic tac toe game. 
+Hey, this is a git repository i am going to use while building my tic tac toe game. 
 
 ## Issues
 - The program has to be restarted if we do some illegal move.
