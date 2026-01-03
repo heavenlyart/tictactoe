@@ -10,3 +10,4 @@ Hey, this is a git repository i am going to use while building my tic tac toe ga
 
 ## Speacial Thanks to
 @heavenlyart for such a work. 
+for streak saving
